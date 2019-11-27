@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://DanSmith:DanSmith123@devconnector-twawb.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "onthagang"
+  "jwtSecret": "onthagang",
+  "githubClientId": "4033a7722b551e531ddf",
+  "githubSecret": "1bf94126c6bd10914b2c3b48cf59d9c554a26399"
 }
